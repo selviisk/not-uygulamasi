@@ -1,0 +1,5 @@
+﻿1. ls - Bulundugun dizindeki dosya ve klasorleri listeler.
+2. cd - Dizinler arasinda gecis yapmayi saglar.
+3. mkdir - Yeni bir klasor/dizin olusturur.
+4. pwd - Calisilan mevcut dizinin tam yolunu gosterir.
+5. rm - Dosya veya klasorleri siler.
