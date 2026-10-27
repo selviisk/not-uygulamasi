@@ -3,3 +3,10 @@
 3. mkdir - Yeni bir klasor/dizin olusturur.
 4. pwd - Calisilan mevcut dizinin tam yolunu gosterir.
 5. rm - Dosya veya klasorleri siler.
+
+-- Hafta 2 Git Komutlari --
+1. git init - Yeni bir Git deposu baslatir.
+2. git status - Calisma alaninin durumunu kontrol eder.
+3. git add - Degisiklikleri staging area'ya ekler.
+4. git commit - Staged yapilan degisiklikleri kaydeder.
+5. git log - Commit gecmisini goruntuler.
